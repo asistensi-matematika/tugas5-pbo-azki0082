@@ -1,0 +1,32 @@
+PERPUSTAKAAN
+
+buku ke : [1]
+judul : buku_1
+pengarang : A Fuadi
+jumlah halaman : 100
+jenis buku : fiksi
+
+buku ke : [2]
+judul : bukuganti
+pengarang : ghk
+jumlah halaman : 20
+jenis buku : fiksi
+
+buku ke : [3]
+judul : buku_3
+pengarang : A Fuadi
+jumlah halaman : 100
+jenis buku : fiksi
+
+buku ke : [4]
+judul : buku4
+pengarang : popi
+jumlah halaman : 100
+jenis buku : fiksi
+
+buku ke : [5]
+judul : buku5
+pengarang : yuy
+jumlah halaman : 20
+jenis buku : non fiksi
+
